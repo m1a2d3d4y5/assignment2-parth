@@ -1,0 +1,25 @@
+input{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+h1{
+    font-weight: 200;
+    color: rgb(58, 247, 190);
+}
+body{
+    background-color: rgb(28, 238, 203);
+    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)) ,url(wall.crdownload);
+    height: 800px;
+    width: 400px;
+    background-position: center;
+    background-size: cover;
+input{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    }
+
+
